@@ -1,0 +1,11 @@
+import numpy as np
+rng=np.random.default_rng()
+# print(rng.integers(1,7,size=3))
+# print(rng.integers(1,7,size=(3,4)))
+# arr=rng.uniform(1,101,(4,5))
+# print(arr)
+# rng.shuffle(arr)
+# print(arr)
+# fruits=np.array(["Apple","Orange","Banana","Pineapple"])
+# fruit=rng.choice(fruits,size=(3,4))
+# print(fruit)
